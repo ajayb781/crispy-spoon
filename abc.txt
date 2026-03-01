@@ -1,0 +1,2 @@
+I am changing the file right now in notepad
+The other code didn't work so im writing something again
